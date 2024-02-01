@@ -26,9 +26,12 @@ Neste exercício foi criado um modelo de previsão usando Estudio do Azure Machi
 ###Links Úteis
 
  [- Tutorial Microsoft Learn][id/artigo]
+ 
  [- Repositório GitHub][id/gitrepo]
+ 
  [- Meu Perfil na DIO][id/perfildio]
-[- Arquivo .json Ponto de Estremidade][id/json]
+ 
+ [- Arquivo .json Ponto de Estremidade][id/json]
 
 
 
